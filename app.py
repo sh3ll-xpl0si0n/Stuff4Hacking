@@ -5,8 +5,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    return render_template('index.html')
-
+    return render_template('index.html') #prueba123
 @app.route('/params')
 @app.route('/params/<name>')
 def params(name= 'default'):
