@@ -1,7 +1,7 @@
 # Stuff4Hacking
 
-THIS IS A LITTLE WEBSITE ON FLASK THAT I MADE FOR LEARNING ANY SUGGESTION IS ACCEPTED
+This is a little website on FLASK that I made for learning any is accepted
+
 DON'T JUDGE IT AS A PROFESIONAL PROYECT IM A NEWBIE IN PROGRAMMING 
 
-FOR RUNNING IT YOU ONLY HAVE TO RUN app.py and OPEN THE LINK THAT THE TERMINAL GIVES TO YOU
-
+For using it only run "app.py" on the terminal
